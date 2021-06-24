@@ -1,4 +1,4 @@
-package br.com.joselucianorc.useful.snipets.designpatterns.gof.singleton.abstractfactory.carro;
+package br.com.joselucianorc.useful.snipets.designpatterns.gof.abstractfactory.carro;
 
 import lombok.Data;
 

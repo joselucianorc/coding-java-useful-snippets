@@ -1,4 +1,4 @@
-package br.com.joselucianorc.useful.snipets.designpatterns.gof.singleton.abstractfactory.planta;
+package br.com.joselucianorc.useful.snipets.designpatterns.gof.abstractfactory.planta;
 
 public class ClientePaisagismo {
 	private static final String NA_SOMBRA = "Na sombra:";
