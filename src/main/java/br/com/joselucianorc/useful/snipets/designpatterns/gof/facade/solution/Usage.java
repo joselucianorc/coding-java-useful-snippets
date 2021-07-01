@@ -1,8 +1,7 @@
-package br.com.joselucianorc.useful.snipets.designpatterns.gof.facade;
+package br.com.joselucianorc.useful.snipets.designpatterns.gof.facade.solution;
 
 import br.com.joselucianorc.useful.snipets.designpatterns.gof.facade.problem.BancoDeDados;
 import br.com.joselucianorc.useful.snipets.designpatterns.gof.facade.problem.Cliente;
-import br.com.joselucianorc.useful.snipets.designpatterns.gof.facade.solution.Negocio;
 
 public class Usage {
 	public static void main(String[] args) {
